@@ -25,6 +25,5 @@ This is the full notebook. The others are the notebook broken in to sections.<br
 #### Powerpoint Presentation
 | [Github]() | [Google Drive]() |
 ***
-##### Contact Information
 Genesis Taylor<br>
 | [Github](https://github.com/GenTaylor/) | [Linkedin](https://linkedin.com/in/genesistaylor/) | [genesisltaylor@gmail.com](mailto:genesisltaylor@gmail.com)|
