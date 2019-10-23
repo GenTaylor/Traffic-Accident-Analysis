@@ -35,4 +35,4 @@ This is the full notebook. The others are the notebook broken in to sections.<br
 [Google Drive]()<br>
 ***
 #### Contact Information
-Genesis Taylor|[Github](https://github.com/GenTaylor/)|[Linkedin](https://linkedin.com/in/genesistaylor/)|genesisltaylor@gmail.com
+Genesis Taylor | [Github](https://github.com/GenTaylor/) | [Linkedin](https://linkedin.com/in/genesistaylor/) | [Gmail](genesisltaylor@gmail.com)
