@@ -14,21 +14,16 @@ This is the full notebook. The others are the notebook broken in to sections.<br
 | [Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK%20Road%20Safety%20Traffic%20Accidents%20and%20Vehicles.ipynb) | [HTML]() | [nbviewer](https://nbviewer.jupyter.org/github/GenTaylor/Traffic-Accident-Analysis/blob/master/UK%20Road%20Safety%20Traffic%20Accidents%20and%20Vehicles.ipynb) |
 ***
 ### UK Road Safety_Traffic Accidents and Vehicles Data Cleaning
-[Github]()<br>
-[HTML]()<br>
-[nbviewer]()<br>
+| [Github]() | [HTML]() | [nbviewer]() |
 ***
 ### UK Road Safety_Traffic Accidents and Vehicles Visualizations
 | [Github]() | [HTML]() | [nbviewer]() |
 ***
 ### UK Road Safety_Traffic Accidents and Vehicles Machine Learning
-[Github]()<br>
-[HTML]()<br>
-[nbviewer]()<br>
+| [Github]() | [HTML]() | [nbviewer]() |
 ***
 ### Powerpoint Presentation
-[Github]()<br>
-[Google Drive]()<br>
+| [Github]() | [Google Drive]() |
 ***
 #### Contact Information
 Genesis Taylor<br>
