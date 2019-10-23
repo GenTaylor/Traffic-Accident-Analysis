@@ -32,3 +32,10 @@ This is the full notebook. The others are the notebook broken in to sections.<br
 [Github]()<br>
 [Google Drive]()<br>
 
+#### Contact Information
+#### Genesis Taylor
+***
+
+[Github](https://github.com/GenTaylor/)__ <br>
+[Linkedin](https://linkedin.com/in/genesistaylor/)__<br>
+genesisltaylor@gmail.com
