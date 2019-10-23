@@ -36,8 +36,6 @@ This is the full notebook. The others are the notebook broken in to sections.<br
 ***
 #### Contact Information
 ##### Genesis Taylor
-***
-
-[Github](https://github.com/GenTaylor/)__ <br>
-[Linkedin](https://linkedin.com/in/genesistaylor/)__<br>
+[Github](https://github.com/GenTaylor/) <br>
+[Linkedin](https://linkedin.com/in/genesistaylor/)<br>
 genesisltaylor@gmail.com
