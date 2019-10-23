@@ -4,9 +4,9 @@ The goal of this project is the investigate what causes Serious and Fatal accide
 The UK government collects and publishes (usually on an annual basis) detailed information about traffic accidents across the country. This information includes, but is not limited to, geographical locations, weather conditions, type of vehicles, number of casualties and vehicle manoeuvres, making this a very interesting and comprehensive dataset for analysis and research.
 
 The data that I'm using is compiled and available through Kaggle and can be found in following link:
-Please see https://www.kaggle.com/tsiaras/uk-road-safety-accidents-and-vehicles#Vehicle_Information.csv for them.
+* [Kaggle - UK Road Safety: Traffic Accidents and Vehicles](https://www.kaggle.com/tsiaras/uk-road-safety-accidents-and-vehicles#Vehicle_Information)<br>
 
-Sometimes, Github will fail to load these notebooks. To view them, please use https://nbviewer.jupyter.org/.
+Occasionally, Github will fail to load these notebooks. To view them, please use https://nbviewer.jupyter.org/.
 
 ## Alternative Views:
 
@@ -14,10 +14,21 @@ Sometimes, Github will fail to load these notebooks. To view them, please use ht
 This is the full notebook. The others are the notebook broken in to sections.<br>
 [Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK%20Road%20Safety%20Traffic%20Accidents%20and%20Vehicles.ipynb)<br>
 [HTML]()<br>
-[nbviewer](https://nbviewer.jupyter.org/github/GenTaylor/Traffic-Accident-Analysis/blob/master/UK%20Road%20Safety%20Traffic%20Accidents%20and%20Vehicles.ipynb)
+[nbviewer](https://nbviewer.jupyter.org/github/GenTaylor/Traffic-Accident-Analysis/blob/master/UK%20Road%20Safety%20Traffic%20Accidents%20and%20Vehicles.ipynb)<br>
 ### UK Road Safety_Traffic Accidents and Vehicles Data Cleaning
-The following sections is for the data cleaning. It includes missing values, outliers, and formatting.<br>
 [Github]()<br>
 [HTML]()<br>
 [nbviewer]()<br>
-This site was built using [GitHub Pages](https://pages.github.com/).
+### UK Road Safety_Traffic Accidents and Vehicles Visualizations
+[Github]()<br>
+[HTML]()<br>
+[nbviewer]()<br>
+### UK Road Safety_Traffic Accidents and Vehicles Machine Learning
+[Github]()<br>
+[HTML]()<br>
+[nbviewer]()<br>
+
+### Powerpoint Presentation
+[Github]()<br>
+[Google Drive]()<br>
+
