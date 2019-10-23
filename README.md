@@ -19,9 +19,7 @@ This is the full notebook. The others are the notebook broken in to sections.<br
 [nbviewer]()<br>
 ***
 ### UK Road Safety_Traffic Accidents and Vehicles Visualizations
-[Github]()<br>
-[HTML]()<br>
-[nbviewer]()<br>
+| [Github]() | [HTML]() | [nbviewer]() |
 ***
 ### UK Road Safety_Traffic Accidents and Vehicles Machine Learning
 [Github]()<br>
