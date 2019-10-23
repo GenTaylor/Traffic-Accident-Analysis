@@ -6,7 +6,7 @@ The UK government collects and publishes (usually on an annual basis) detailed i
 The data that I'm using is compiled and available through Kaggle and can be found in following link:
 * [Kaggle - UK Road Safety: Traffic Accidents and Vehicles](https://www.kaggle.com/tsiaras/uk-road-safety-accidents-and-vehicles#Vehicle_Information)<br>
 
-Occasionally, Github will fail to load these notebooks. To view them, please use https://nbviewer.jupyter.org/.
+Occasionally, Github will fail to load these notebooks. To view them, please use [nbviewer](https://nbviewer.jupyter.org/) or use the links below.
 
 ## Alternative Views:
 
