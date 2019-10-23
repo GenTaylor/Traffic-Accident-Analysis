@@ -9,22 +9,22 @@ The data that I'm using is compiled and available through Kaggle and can be foun
 Occasionally, Github will fail to load these notebooks. To view them, please use [nbviewer](https://nbviewer.jupyter.org/) or use the links below.
 ***
 
-### UK Road Safety Traffic Accidents and Vehicles:
+#### UK Road Safety Traffic Accidents and Vehicles:
 This is the full notebook. The others are the notebook broken in to sections.<br>
 | [Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK%20Road%20Safety%20Traffic%20Accidents%20and%20Vehicles.ipynb) | [HTML]() | [nbviewer](https://nbviewer.jupyter.org/github/GenTaylor/Traffic-Accident-Analysis/blob/master/UK%20Road%20Safety%20Traffic%20Accidents%20and%20Vehicles.ipynb) |
 ***
-### UK Road Safety_Traffic Accidents and Vehicles Data Cleaning
+#### UK Road Safety_Traffic Accidents and Vehicles Data Cleaning
 | [Github]() | [HTML]() | [nbviewer]() |
 ***
-### UK Road Safety_Traffic Accidents and Vehicles Visualizations
+#### UK Road Safety_Traffic Accidents and Vehicles Visualizations
 | [Github]() | [HTML]() | [nbviewer]() |
 ***
-### UK Road Safety_Traffic Accidents and Vehicles Machine Learning
+#### UK Road Safety_Traffic Accidents and Vehicles Machine Learning
 | [Github]() | [HTML]() | [nbviewer]() |
 ***
-### Powerpoint Presentation
+#### Powerpoint Presentation
 | [Github]() | [Google Drive]() |
 ***
-#### Contact Information
+##### Contact Information
 Genesis Taylor<br>
 | [Github](https://github.com/GenTaylor/) | [Linkedin](https://linkedin.com/in/genesistaylor/) | [genesisltaylor@gmail.com](mailto:genesisltaylor@gmail.com)|
