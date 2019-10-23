@@ -11,9 +11,7 @@ Occasionally, Github will fail to load these notebooks. To view them, please use
 
 ### UK Road Safety Traffic Accidents and Vehicles:
 This is the full notebook. The others are the notebook broken in to sections.<br>
-[Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK%20Road%20Safety%20Traffic%20Accidents%20and%20Vehicles.ipynb)<br>
-[HTML]()<br>
-[nbviewer](https://nbviewer.jupyter.org/github/GenTaylor/Traffic-Accident-Analysis/blob/master/UK%20Road%20Safety%20Traffic%20Accidents%20and%20Vehicles.ipynb)<br>
+| [Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK%20Road%20Safety%20Traffic%20Accidents%20and%20Vehicles.ipynb) | [HTML]() | [nbviewer](https://nbviewer.jupyter.org/github/GenTaylor/Traffic-Accident-Analysis/blob/master/UK%20Road%20Safety%20Traffic%20Accidents%20and%20Vehicles.ipynb) |
 ***
 ### UK Road Safety_Traffic Accidents and Vehicles Data Cleaning
 [Github]()<br>
