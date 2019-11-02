@@ -11,10 +11,10 @@ Occasionally, Github will fail to load these notebooks. To view them, please use
 
 #### UK Road Safety Traffic Accidents and Vehicles:
 This is the full notebook. The others are the notebook broken in to sections.<br>
-| [Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK%20Road%20Safety%20Traffic%20Accidents%20and%20Vehicles.ipynb) | [HTML](http://htmlpreview.github.io/?https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/uk-road-safety-accidents-and-vehicles.html) | [nbviewer](https://nbviewer.jupyter.org/github/GenTaylor/Traffic-Accident-Analysis/blob/master/UK%20Road%20Safety%20Traffic%20Accidents%20and%20Vehicles.ipynb) |
+| [Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK%20Road%20Safety%20Traffic%20Accidents%20and%20Vehicles.ipynb) | [HTML](http://htmlpreview.github.io/?https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles.html) | [nbviewer](https://nbviewer.jupyter.org/github/GenTaylor/Traffic-Accident-Analysis/blob/master/UK%20Road%20Safety%20Traffic%20Accidents%20and%20Vehicles.ipynb) |
 ***
 #### UK Road Safety_Traffic Accidents and Vehicles Data Cleaning
-| [Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Data_Cleaning_and_Feature_Manipulation.ipynb) | [HTML](http://htmlpreview.github.io/?https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Data_Cleaning_and_Feature_Manipulation.html) | [nbviewer]() |
+| [Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles.ipynb) | [HTML](http://htmlpreview.github.io/?https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Data_Cleaning_and_Feature_Manipulation.html) | [nbviewer]() |
 ***
 #### UK Road Safety_Traffic Accidents and Vehicles Visualizations
 | [Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Visualizations_and_Solution.ipynb) | [HTML](http://htmlpreview.github.io/?https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Visualizations_and_Solution.html) | [nbviewer]() |
