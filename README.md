@@ -3,8 +3,6 @@ The goal of this project is the investigate what causes not serious and serious 
 
 The UK government collects and publishes (usually on an annual basis) detailed information about traffic accidents across the country. This information includes, but is not limited to, geographical locations, weather conditions, type of vehicles, number of casualties and vehicle manoeuvres, making this a very interesting and comprehensive dataset for analysis and research.
 
-The data that I'm using is compiled and available through Kaggle and can be found in following link:
-* [Kaggle - UK Road Safety: Traffic Accidents and Vehicles](https://www.kaggle.com/tsiaras/uk-road-safety-accidents-and-vehicles#Vehicle_Information)<br>
 
 Occasionally, Github will fail to load these notebooks. To view them, please use [nbviewer](https://nbviewer.jupyter.org/) or use the links below.
 ***
