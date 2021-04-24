@@ -21,7 +21,7 @@ This is the full notebook. The others are the notebook broken in to sections.<br
 [Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Machine_Learning.ipynb) |[nbviewer](https://nbviewer.jupyter.org/github/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Machine_Learning.ipynb)
 ***
 #### Powerpoint Presentation
-[Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/Traffic_Analysis_and_Severity_Prediction.pptx) | [PDF](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/Traffic_Analysis_and_Severity_Prediction.pdf)
+[Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/HTML%20PDF%20Versions%20and%20PPT/Traffic_Analysis_and_Severity_Prediction.pptx | [PDF](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/HTML%20PDF%20Versions%20and%20PPT/Traffic_Analysis_and_Severity_Prediction.pdf)
 ***
 Genesis L. Taylor<br>
 [Github](https://github.com/GenTaylor/) | [Linkedin](https://linkedin.com/in/genesistaylor/) | [Tableau](https://public.tableau.com/profile/genesis.taylor#!/) | [genesisltaylor@gmail.com](mailto:genesisltaylor@gmail.com)
