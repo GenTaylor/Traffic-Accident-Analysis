@@ -25,3 +25,4 @@ This is the full notebook. The others are the notebook broken in to sections.<br
 ***
 Genesis L. Taylor<br>
 [Github](https://github.com/GenTaylor/) | [Linkedin](https://linkedin.com/in/genesistaylor/) | [Tableau](https://public.tableau.com/profile/genesis.taylor#!/) | [genesisltaylor@gmail.com](mailto:genesisltaylor@gmail.com)
+
