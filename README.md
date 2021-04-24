@@ -9,16 +9,16 @@ Occasionally, Github will fail to load these notebooks. To view them, please use
 
 #### UK Road Safety Traffic Accidents and Vehicles:
 This is the full notebook. The others are the notebook broken in to sections.<br>
-[Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles.ipynb) | [HTML](https://htmlpreview.github.io/?https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/HTML%20PDF%20Versions%20and%20PPT/UK_Road_Safety_Traffic_Accidents_and_Vehicles.html) | [nbviewer](https://nbviewer.jupyter.org/github/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles.ipynb)
+[Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles.ipynb)
 ***
 #### UK Road Safety_Traffic Accidents and Vehicles Data Cleaning & Feature Manipulation
-[Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Data_Cleaning_and_Feature_Manipulation.ipynb) | [HTML](http://htmlpreview.github.io/?https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/HTML%20PDF%20Versions%20and%20PPT/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Data_Cleaning_and_Feature_Manipulation.html) | [nbviewer](https://nbviewer.jupyter.org/github/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Data_Cleaning_and_Feature_Manipulation.ipynb)
+[Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Data_Cleaning_and_Feature_Manipulation.ipynb) |[nbviewer](https://nbviewer.jupyter.org/github/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Data_Cleaning_and_Feature_Manipulation.ipynb)
 ***
 #### UK Road Safety_Traffic Accidents and Vehicles Visualizations and Solution
-[Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Visualizations_and_Solution.ipynb) | [HTML](http://htmlpreview.github.io/?https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/HTML%20PDF%20Versions%20and%20PPT/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Visualizations_and_Solution.html) | [nbviewer](https://nbviewer.jupyter.org/github/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Visualizations_and_Solution.ipynb)
+[Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Visualizations_and_Solution.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Visualizations_and_Solution.ipynb)
 ***
 #### UK Road Safety_Traffic Accidents and Vehicles Machine Learning
-[Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Machine_Learning.ipynb) | [HTML](http://htmlpreview.github.io/?https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/HTML%20PDF%20Versions%20and%20PPT/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Machine_Learning.html) | [nbviewer](https://nbviewer.jupyter.org/github/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Machine_Learning.ipynb)
+[Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Machine_Learning.ipynb) |[nbviewer](https://nbviewer.jupyter.org/github/GenTaylor/Traffic-Accident-Analysis/blob/master/UK_Road_Safety_Traffic_Accidents_and_Vehicles_Machine_Learning.ipynb)
 ***
 #### Powerpoint Presentation
 [Github](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/Traffic_Analysis_and_Severity_Prediction.pptx) | [PDF](https://github.com/GenTaylor/Traffic-Accident-Analysis/blob/master/Traffic_Analysis_and_Severity_Prediction.pdf)
