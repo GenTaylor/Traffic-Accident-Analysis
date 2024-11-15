@@ -1,8 +1,7 @@
 # Traffic Accident Analysis
 
 ***
-I was recently informed that the dataset that I used is no longer on kaggle in the exact format that I used. If this is something that you need, please email me: genesisltaylor@gmail.com and I can try to sent it to you.
-***
+I was recently informed that the dataset that I used is no longer on kaggle in the exact format that I used. [BLAH BLAH BLAH HERE'S THE LINK](https://drive.google.com/drive/folders/1mFyr65RSX-ig84b8WddWQYmFaSFPk58d?usp=drive_link)
 
 The goal of this project is the investigate what causes not serious and serious accidents in hopes of preventing and decreasing the number of them. The dataset consists of accident records from the UK over the course of 15+ years. I hope to show the causes of these accidents through visualizations and create an algorithm that can predict the severity of accidents.
 
